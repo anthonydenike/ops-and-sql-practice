@@ -1,1 +1,1 @@
-# service-ops-analysis
+# ops-and-sql-practice
